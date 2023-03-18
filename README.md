@@ -64,7 +64,7 @@ chmod +x run.sh && chmod +x bot.py
 </p>
 
 <p align = "center">
-<img src="https://github.com/mython-dev/server-management-tool/blob/main/screenshots/df.png" width="600" height="700">
+<img src="https://github.com/mython-dev/server-management-tool/blob/main/screenshots/df.png" width="600" height="400">
 </p>
 
 <p align = "center">
