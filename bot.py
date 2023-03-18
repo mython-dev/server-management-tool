@@ -152,10 +152,6 @@ async def monitoring_server():
     ram_usage = psutil.virtual_memory().percent
     # Получаем процент использования диска
     disk_usage = psutil.disk_usage('/').percent
-    # Создаем объект speedtest для получения скорости интернета
-    st = speedtest.Speedtest()
-    # Получаем скорость загрузки, отдачи и пинг
-    download_speed, upload_speed, ping = st.download() / 1000000, st.upload() / 1000000, st.results.ping
 
     if cpu_usage > 90:
         await bot.send_message(chat_id=TELEGRAM_ID, text=f'💻 Использование CPU: <b>{cpu_usage}%</b>, Осталось <b>10%</b> !!!', parse_mode=ParseMode.HTML)
