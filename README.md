@@ -60,7 +60,7 @@ chmod +x run.sh && chmod +x bot.py
 ## Скриншоты
 
 <p align = "center">
-<img src="https://github.com/mython-dev/server-management-tool/blob/main/screenshots/status.png" width="600" height="700">
+<img src="https://github.com/mython-dev/server-management-tool/blob/main/screenshots/status.png" width="600" height="600">
 </p>
 
 <p align = "center">
