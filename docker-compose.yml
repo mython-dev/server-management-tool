@@ -1,0 +1,17 @@
+# Author        : myth-dev
+# GitHub        : https://github.com/mython-dev
+# Instagram     : @thehackerworld && @mython_dev
+# Telegram      : @myth_dev
+# Date          : Saturday, March 18, 2023
+# Main Language : Python
+
+version: '3'
+
+services:
+  bot:
+    build: .
+    container_name: bot
+    volumes:
+      - ./:/bot/
+    command: bash run.sh
+    restart: always
