@@ -6,5 +6,5 @@
 # Main Language : Python
 
 
-BOT_TOKEN = ""# Вы можете создать своего бота здесь @BotFather
-TELEGRAM_ID = "" # Вы можете получить свой id здесь @my_id_bot
+BOT_TOKEN = "yourtelegrambottokenhere"# Вы можете создать своего бота здесь @BotFather
+TELEGRAM_ID = "yourtelegidhere" # Вы можете получить свой id здесь @my_id_bot
