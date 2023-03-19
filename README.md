@@ -68,7 +68,7 @@ chmod +x run.sh && chmod +x bot.py
 </p>
 
 <p align = "center">
-<img src="https://github.com/mython-dev/server-management-tool/blob/main/screenshots/install-remove.png" width="700" height="500">
+<img src="https://github.com/mython-dev/server-management-tool/blob/main/screenshots/install-remove.png" width="800" height="500">
 </p>
 
 <p align = "center">
