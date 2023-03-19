@@ -32,7 +32,7 @@ cd server-management-tool
 pip install -r requirements.txt
 ```
 
-4. Откроете файл `config.py` и добавьте `Token` и свой `Telegram id`.
+4. Откроете файл `config.py` и добавьте `Токен Бота` и свой `Телеграмм ID`.
 
 ```python
 # config.py
