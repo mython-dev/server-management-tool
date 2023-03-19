@@ -6,25 +6,25 @@
 
 ## Установка.
 
-1. Клонировать репозиторий:
+1. Клонируйте репозиторию:
 
 ```bash
 git clone https://github.com/mython-dev/server-management-tool.git
 ```
 
-2. Перейти в директорию проекта:
+2. Перейдите в директорию проекта:
 
 ```bash
 cd server-management-tool
 ```
 
-3. Установить зависимости.:
+3. Установите зависимости:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-4. Открыт файл `config.py` и добавить ваш токен и ваш  Telegram id.
+4. Откроете файл `config.py` и добавьте `Token` и свой `Telegram id`.
 
 ```python
 # config.py
