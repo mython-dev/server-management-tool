@@ -13,6 +13,11 @@ Server Management and Monitoring Tool
                                  
 </pre>
 
+## Содержание.
+
+- [Установка](https://github.com/mython-dev/server-management-tool#установка)
+- [Использование](https://github.com/mython-dev/server-management-tool#использование)
+- [Скриншоты.](https://github.com/mython-dev/server-management-tool#скриншоты)
 
 ## Установка.
 
