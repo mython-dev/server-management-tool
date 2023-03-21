@@ -1,4 +1,4 @@
-# Server Management and Monitoring Tool
+<h1 align="center">Server Management and Monitoring Tool</h1>
 
 <pre align="center">
  ____  __  __       __  __ _____ 
