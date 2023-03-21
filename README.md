@@ -11,7 +11,7 @@
                                  
 </pre>
 
-<h1 align="center">Server Management and Monitoring Tool</h1>
+<h1>Server Management and Monitoring Tool</h1>
 
 
 ## Установка.
