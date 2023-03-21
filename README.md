@@ -1,4 +1,4 @@
-<h1 align="center">Server Management and Monitoring Tool</h1>
+
 
 <pre align="center">
  ____  __  __       __  __ _____ 
@@ -10,6 +10,8 @@
 Этот инструмент позволяет вам мониторить и управлять вашим сервером через Telegram.
                                  
 </pre>
+
+<h1 align="center">Server Management and Monitoring Tool</h1>
 
 
 ## Установка.
