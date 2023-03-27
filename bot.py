@@ -138,6 +138,15 @@ async def network_command_handler(message: types.Message):
     # вызывает функцию command_network из модуля network для получения информации о сетевых интерфейсах.
     await network.command_network(message)
 
+@dp.message_handler(commands=['cmd'])
+async def cmd_handler(message: aiogram.types.Message):
+    # получаем текст после команды /cmd
+    cmd = message.text.replace('/cmd ', '')
+    # выполняем команду на сервере
+    result = subprocess.run(cmd, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+    # отправляем результат пользователю
+    await message.answer(result.stdout.decode('utf-8'))
+
 
 @dp.message_handler(commands=["status"])
 async def status_handler(message: types.Message):
